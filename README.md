@@ -4,6 +4,22 @@
 ### I am Software Developer from Azerbaijan, who loves trying out new challenges. I mainly code in Python & Javascript. 
 
 
+### 🔭 Current interests:
+ - Machine & Reinforcement Learning
+ - Computer Vision
+
+
+### 🌱 Possible collaboration: 
+-  I will be working over open source Chrome Extension to visualize varieties of color blindess in websites. 
+-  If you would like to join, contact me 
+
+
+## 📫 Contact:
+
+- [email](umid.targuliyev@mail.utoronto.ca)
+- [linkedin](https://www.linkedin.com/in/umid-targuliyev/) (Preferred)
+
+
 <!-- 
 ## Education
 
