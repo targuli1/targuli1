@@ -5,6 +5,7 @@
 
 
 ### 🔭 Current interests:
+ - Software Development
  - Machine & Reinforcement Learning
  - Computer Vision
 
