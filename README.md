@@ -11,7 +11,7 @@
 
 
 ### 🌱 Possible collaboration: 
--  I will be working over open source Chrome Extension to visualize varieties of color blindess in websites. 
+-  I will be working over open source Chrome Extension to visualize varieties of color blindess in websites. (Depriorotized)
 -  If you would like to join, contact me 
 
 
