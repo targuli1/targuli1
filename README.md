@@ -17,7 +17,7 @@
 
 ## 📫 Contact:
 
-- umid[dot]targuliyev[at]mail[dot]utoronto[dot]ca
+- targuliyev[dot]umid[at]gmail[dot]com
 - [linkedin](https://www.linkedin.com/in/umid-targuliyev/) (Preferred)
 
 
